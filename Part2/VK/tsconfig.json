@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "types":["node", "jest"], //"mocha", "chai"
+        "esModuleInterop": true
+    }
+}
